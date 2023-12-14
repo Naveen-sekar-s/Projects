@@ -1,6 +1,5 @@
 #print list using list Append method
-
-#append() Adding elements end of the list
+#append()Adding elements end of the list
 #eg(1)
 enames=["Ragul","Sonia","Reddy","Priyanka","Mandela","Modi"]
 enames.append(777)
