@@ -1,5 +1,4 @@
-""" Ternary Operator is alternative of if-else """
-
+#Ternary Operator is alternative of if-else #
 #if else code
 sal = 50000
 if sal>45000:

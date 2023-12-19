@@ -12,3 +12,8 @@ empset={'Arun','Balaji','Dinesh','Elizabath','Farzila',}
 newemp = {5,"Mohan"}
 empset.update(newemp)
 print(empset)
+
+#eg(3)
+ids={101,102,103,104,105}
+ids.update([106,107],range(9))
+print(ids)
