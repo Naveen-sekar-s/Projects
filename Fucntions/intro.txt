@@ -1,7 +1,0 @@
- --- Group of statement for a specific purpose
-
- --- Function are two types there are,
-        (i)Built-in function 
-        (ii)user-defined function
-
- --- Execute buisness logic , return value.
