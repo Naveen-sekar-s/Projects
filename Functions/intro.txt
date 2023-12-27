@@ -15,3 +15,9 @@
               (ii) Named arguments
               (iii) Defualt arguments
               (iv) Variable , Length arguments
+
+--- Lambda function --> Anonymous function
+       This function have ;
+              No function name,
+              No Def keyword,
+              No return keyword.
