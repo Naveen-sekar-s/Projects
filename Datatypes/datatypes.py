@@ -1,17 +1,19 @@
-price = 999                        #int
-rating = 4.5                       #float
-ename = "Rahul"                    #string
-avail = True                       #bool
-c = 10+20j                         #complex
-size = ['S', 'M', 'L', 'XL']       #list
-t = (10, 20, 30, 40)               #tuple
-s = {10, 20, 30, 40}               #set
-emp = {'id': 101, 'name': 'rahul'} #dict
-b = bytes([0, 200, 210, 100])      #bytes
-ba = bytearray(b)                  #bytearray
-r = range(10)                      #range
-fs = frozenset(s)                  #frozenset
-def calc():                        #none
+price = 999  # int
+rating = 4.5  # float
+ename = "Rahul"  # string
+avail = True  # bool
+c = 10 + 20j  # complex
+size = ["S", "M", "L", "XL"]  # list
+t = (10, 20, 30, 40)  # tuple
+s = {10, 20, 30, 40}  # set
+emp = {"id": 101, "name": "rahul"}  # dict
+b = bytes([0, 200, 210, 100])  # bytes
+ba = bytearray(b)  # bytearray
+r = range(10)  # range
+fs = frozenset(s)  # frozenset
+
+
+def calc():  # none
     pass
 
 
@@ -19,7 +21,7 @@ print(type(price))
 print(price)
 
 print(type(rating))
-print(rating) 
+print(rating)
 
 print(type(ename))
 print(ename)
